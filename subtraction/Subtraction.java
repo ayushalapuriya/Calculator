@@ -5,3 +5,4 @@ public class Subtraction {
         return a - b;
     }
 }
+
